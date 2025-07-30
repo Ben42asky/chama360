@@ -62,13 +62,3 @@ Chama360 empowers members and administrators of savings groups to:
 - Backend: Render / Railway
 
 ---
-
-## 🚀 Getting Started
-
-### 🔧 Backend Setup
-```bash
-git clone https://github.com/yourusername/chama360-backend.git
-cd chama360-backend
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
